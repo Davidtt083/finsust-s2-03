@@ -686,3 +686,11 @@ a {
   margin-left: 35px;
   margin-top: 13px;
 }
+
+.logo-egade {
+  position: absolute;
+  width: 224px;
+  height: auto;
+  margin-top: 19px;
+  margin-left: 630px;
+}

@@ -74,7 +74,7 @@ var anim1 = bodymovin.loadAnimation({
 	renderer: 'svg',
 	loop: false,
 	autoplay: false,
-	path: 'pant1.json'
+	path: 'pant-01.json'
 });
 
 // Cargar la segunda animación en el segundo div
